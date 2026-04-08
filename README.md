@@ -4,7 +4,7 @@
 Bienvenido al repositorio de **URBANLAB 1.0**, una propuesta pedagógica diseñada para el Máster Universitario de Profesorado de Educación Secundaria (MUPES). Este proyecto transforma el aula en un estudio de ingeniería ciudadana.
 
 ## 🌟 Justificación del Proyecto
-URBANLAB 1.0 propone al alumnado el reto de rediseñar una zona real de su municipio para mejorar su sostenibilidad, accesibilidad y tecnificación. A través de un flujo de trabajo profesional, los estudiantes pasan de la fase de campo y obtención de planos en ayuntamientos, al prototipado mediante fabricación digital y control automático.
+URBANLAB 1.0 propone al alumnado el reto de rediseñar una zona real de su municipio para su mejora urbana teniendo en cuenta sostenibilidad, accesibilidad y tecnificación. A través de un flujo de trabajo profesional, los estudiantes pasan de la fase de campo y obtención de planos en el ayuntamiento, al prototipado mediante fabricación digital, maquetado y control automático.
 
 ## 🌍 Objetivos de Desarrollo Sostenible (ODS)
 El proyecto se alinea estratégicamente con:
@@ -18,7 +18,7 @@ Este repositorio se organiza en las siguientes secciones para facilitar su imple
 
 ### 🎓 Material para el Alumnado
 * **Enunciados_Practicas/**: Guías paso a paso para CAD, 3D y Programación.
-* **Apuntes_Teoria/**: Resúmenes ejecutivos de normalización, materiales y electrónica.
+* **Apuntes_Teoria/**: Resúmenes, dosier de teoría vista en clase, materiales y electrónica.
 * **Boletines_Problemas/**: Ejercicios de escalas, esfuerzos y cálculo energético.
 
 ### 📦 Material para el Profesorado
