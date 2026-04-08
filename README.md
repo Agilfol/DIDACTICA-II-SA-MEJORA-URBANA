@@ -28,6 +28,6 @@ Este repositorio se organiza en las siguientes secciones para facilitar su imple
 * **Transparencias/**: Presentaciones de apoyo para las clases teóricas.
 
 ---
-**Autores:** [Aitana Gil Folqués] y [Inma Soriano Belda]  
+**Autores:** Aitana Gil Folqués y Inma Soriano Belda  
 **Asignatura:** Didáctica II de la Tecnología y la Informática - MUPES  
 **Contexto:** Generalitat Valenciana (GVA) - 1º Bachillerato - Tecnología e Ingeniería I
