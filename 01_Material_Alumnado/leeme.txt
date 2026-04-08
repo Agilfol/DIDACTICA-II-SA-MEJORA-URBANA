@@ -1,1 +1,1 @@
-En esta carpeta se guardarán los materiales para los alumnos
+En esta carpeta se guardarán los materiales para los alumnos (enunciados de las prácticas, apuntes...).
