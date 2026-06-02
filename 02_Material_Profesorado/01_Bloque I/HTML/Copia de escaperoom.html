@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escape Room UrbanLab</title>
+    <style>
+        body { background-color: #1a1a1a; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        .card { border: 3px solid #ffcc00; background-color: #222; color: #fff; padding: 40px; border-radius: 15px; text-align: center; font-family: sans-serif; box-shadow: 0px 4px 20px rgba(0,0,0,0.8); max-width: 450px; }
+        h2 { color: #ffcc00; }
+        .instrucciones { background-color: #333; padding: 15px; border-radius: 10px; margin: 20px 0; text-align: left; border-left: 5px solid #ffcc00; }
+        input { padding: 15px; border-radius: 5px; border: none; width: 120px; text-align: center; font-size: 1.5em; margin-bottom: 20px; }
+        button { background-color: #ffcc00; color: #000; padding: 15px 30px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; font-size: 1em; }
+        button:hover { background-color: #e6b800; }
+        #feedback { margin-top: 20px; font-weight: bold; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>🔓 URBANLAB: SISTEMA BLOQUEADO</h2>
+    <p>Resuelve el reto técnico para obtener el permiso de impresión.</p>
+    
+    <div class="instrucciones">
+        1. Esfuerzo de un pilar (Compresión=1).<br>
+        2. Escala 1:20. 5cm reales en decímetros (1).<br>
+        3. Número de vistas principales (3).
+    </div>
+
+    <input type="text" id="codigo" placeholder="???">
+    <br>
+    <button onclick="comprobar()">VERIFICAR SISTEMAS</button>
+
+    <p id="feedback"></p>
+</div>
+
+<script>
+    function comprobar() {
+        var input = document.getElementById('codigo').value;
+        var f = document.getElementById('feedback');
+        if(input === "113") {
+            f.innerHTML = "✅ ACCESO CONCEDIDO. Código 113 correcto.";
+            f.style.color = "#00ff00";
+        } else {
+            f.innerHTML = "❌ CÓDIGO INCORRECTO.";
+            f.style.color = "#ff4444";
+        }
+    }
+</script>
+
+</body>
+</html>
