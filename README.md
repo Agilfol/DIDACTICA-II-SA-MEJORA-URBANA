@@ -31,4 +31,5 @@ Este repositorio se organiza en las siguientes secciones para facilitar su imple
 **Autores:** Aitana Gil Folqués y Inma Soriano Belda  
 **Asignatura:** Didáctica II de la Tecnología y la Informática - MUPES  
 **Contexto:** Generalitat Valenciana (GVA) - 1º Bachillerato - Tecnología e Ingeniería I
+
 **Enlace para acceder al Moodle:** https://moodlemupes.upv.es/course/view.php?id=300 (aquí se encuentra toda la SA estructurada con todos los recursos e información necesarios para impartir la clase).
