@@ -19,6 +19,7 @@
 ## BLOQUE II
 
 ### ✅ IMPRESCINDIBLES
+* **Simulador Engranajes:** https://www.meiyaprecision.com/gear-generator/es/
 
 ### 💡 APOYO TÉCNICO
 
