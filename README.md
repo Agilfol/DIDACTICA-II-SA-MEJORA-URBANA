@@ -42,6 +42,7 @@ Este repositorio se organiza en las siguientes secciones para facilitar su imple
 * ***Calendari_escolar_25-26.pdf:*** Calendario proporcionado por el centro.
 * ***Calendario_Academico_2025_2026.pdf:***
 * ***Curriculo_Tecnologia_e_Ingenieria_I_II.pdf:*** Documento que contiene tanto las Competencias y los Objetivos como los contenidos (Saberes básicos).
+* ***METODOLOGIA:*** Documento que detalla la metodología empleada en la SA.
 * ***TEMPORALIZACIÓN.docx:*** Documento que segmenta en sesiones toda la SA detallando brevemente lo que se hará en cada sesión.
 
 ### Infografía ejemplo proyecto.png
