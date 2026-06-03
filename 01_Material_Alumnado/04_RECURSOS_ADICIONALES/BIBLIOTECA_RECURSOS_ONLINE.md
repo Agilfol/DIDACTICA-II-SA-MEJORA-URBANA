@@ -32,6 +32,7 @@
 ## BLOQUE III
 
 ### ✅ IMPRESCINDIBLES
+* **Simulador de circuitos:** https://www.circuitlab.com/editor/#?id=7pq5wm&from=homepage
 * **Tinkercad Circuits:** https://www.tinkercad.com/circuits
 
 ### 💡 APOYO TÉCNICO
