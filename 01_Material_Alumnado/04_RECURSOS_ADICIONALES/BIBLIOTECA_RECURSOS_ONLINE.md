@@ -20,8 +20,11 @@
 
 ### ✅ IMPRESCINDIBLES
 * **Simulador Engranajes:** https://www.meiyaprecision.com/gear-generator/es/
+* **Relación de transmisión:** https://youtu.be/QSxbskQIVu4?si=kRztPjT8Ilw3bbIj
 
 ### 💡 APOYO TÉCNICO
+* **Tutoriales Tinkercad** https://youtu.be/DfzaDfIEUtA?si=6VaJbVxe_xPxqoYD
+* https://youtu.be/RYJzYFiwdbk?si=HFXk1h4nLEZ5X9sV
 
 ### 🚀 RECURSOS AVANZADOS
 
