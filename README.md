@@ -17,15 +17,29 @@ El proyecto se alinea estratégicamente con:
 Este repositorio se organiza en las siguientes secciones para facilitar su implementación docente:
 
 ### 🎓 Material_Alumnado
-* **Enunciados_Practicas/**: Guías paso a paso para CAD, 3D y Programación.
-* **Apuntes_Teoria/**: Resúmenes, dosier de teoría vista en clase, materiales y electrónica.
-* **Boletines_Problemas/**: Ejercicios de escalas, esfuerzos y cálculo energético.
+* **BIBLIOTECA_RECURSOS_ONLINE.md:** Aquí se encuentran todos los recursos online para el alumnado. Está dividido por bloques y hay 3 niveles (Recursos Imprescindibles, Recursos de Apoyo y Recursos Avanzados).
+* **DOSSIER_ALUMNO:** En estos dossiers (divididos por bloques) se encuentran los **Enunciados de Prácticas** (las guías para CAD, 3D y programación), los **Apuntes de Teoría** (los resúmenes, dossier de teoría que se verá en clase, materiales y electrónica) y los **Boletines de Problemas** (los ejercicios de escalas, esfuerzos, cálculo energético...), así como **Prácticas de Laboratorio o Taller**.
+  Los archivos de este tipo tienen el siguiente nombre:
+  * **BLOQUE_I_DOSSIER_ALUMNO**
+  * **BLOQUE_II_DOSSIER_ALUMNO**
+  * **BLOQUE_III_DOSSIER_ALUMNO**
 
 ### 📦 Material para el Profesorado
-* **Guia_Docente/**: Programación de aula detallada (128 sesiones).
-* **Evaluacion_Rubricas/**: Matrices de evaluación por competencias y criterios GVA.
-* **Solucionarios/**: Resolución de boletines y ejemplos de código fuente.
-* **Transparencias/**: Presentaciones de apoyo para las clases teóricas.
+* **01_Bloque I**
+  * *HERRAMIENTAS_EVIDENCIAS:* Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
+  * *HTML:* Enlaces a recursos creados de apoyo para el alumnado (Escape Room, Bando de Preguntas).
+* **02_Bloque II**
+  * *HERRAMIENTAS_EVIDENCIAS:* Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
+  * *Transparencias:* Las presentaciones para las explicaciones de algunas sesiones del bloque.
+ * **03_Bloque III**
+  * *HERRAMIENTAS_EVIDENCIAS:* Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
+  * *Transparencias:* Las presentaciones para las explicaciones de algunas sesiones del bloque.
+* **04_EVALUACION:** Documentos explicativos para la evaluación del curso (dividido por bloques) y excel de la Evaluación Competencial con los pesos de cada criterio y su relación con las competencias y las evidencias.
+* **05_ADAPTACIÓN_DUA:** Documentos explicativos para la adaptación DUA del curso (dividido por bloques).
+* *Calendari_escolar_25-26.pdf:* Calendario proporcionado por el centro.
+* *Calendario_Academico_2025_2026.pdf:*
+* *Curriculo_Tecnologia_e_Ingenieria_I_II:* Documento que contiene tanto las Competencias y los Objetivos como los contenidos (Saberes básicos).
+* *TEMPORALIZACIÓN:* Documento que segmenta en sesiones toda la SA detallando brevemente lo que se hará en cada sesión.
 
 ---
 **Autores:** Aitana Gil Folqués y Inma Soriano Belda  
