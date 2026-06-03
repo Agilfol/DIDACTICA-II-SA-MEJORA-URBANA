@@ -32,7 +32,9 @@
 ## BLOQUE III
 
 ### ✅ IMPRESCINDIBLES
+* **Tinkercad Circuits:** https://www.tinkercad.com/circuits
 
 ### 💡 APOYO TÉCNICO
+* **Tutoriales Programación en bloque:** https://youtube.com/playlist?list=PLlQckOlrLLoHF2HvTmGybW931iYG0o9CF&si=Iw1BN_6xsgRjFHvm
 
 ### 🚀 RECURSOS AVANZADOS
