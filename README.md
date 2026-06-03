@@ -6,6 +6,9 @@ Bienvenido al repositorio de **URBANLAB 1.0**, una propuesta pedagógica diseña
 ## 🌟 Justificación del Proyecto
 URBANLAB 1.0 propone al alumnado el reto de rediseñar una zona real de su municipio para su mejora urbana teniendo en cuenta sostenibilidad, accesibilidad y tecnificación. A través de un flujo de trabajo profesional, los estudiantes pasan de la fase de campo y obtención de planos en el ayuntamiento, al prototipado mediante fabricación digital, maquetado y control automático.
 
+**Nº de sesiones:** 128 sesiones
+**Grupos:** Grupos de 5 alumnos aproximadamente
+
 ## 🌍 Objetivos de Desarrollo Sostenible (ODS)
 El proyecto se alinea estratégicamente con:
 * **ODS 11:** Ciudades y comunidades sostenibles.
