@@ -16,7 +16,7 @@ El proyecto se alinea estratégicamente con:
 ## 📂 Estructura de la Maleta Pedagógica
 Este repositorio se organiza en las siguientes secciones para facilitar su implementación docente:
 
-### 🎓 Material para el Alumnado
+### 🎓 Material_Alumnado
 * **Enunciados_Practicas/**: Guías paso a paso para CAD, 3D y Programación.
 * **Apuntes_Teoria/**: Resúmenes, dosier de teoría vista en clase, materiales y electrónica.
 * **Boletines_Problemas/**: Ejercicios de escalas, esfuerzos y cálculo energético.
@@ -32,4 +32,4 @@ Este repositorio se organiza en las siguientes secciones para facilitar su imple
 **Asignatura:** Didáctica II de la Tecnología y la Informática - MUPES  
 **Contexto:** Generalitat Valenciana (GVA) - 1º Bachillerato - Tecnología e Ingeniería I
 
-**Enlace para acceder al Moodle:** https://moodlemupes.upv.es/course/view.php?id=300 (aquí se encuentra toda la SA estructurada con todos los recursos e información necesarios para impartir la clase).
+**Enlace para acceder al Moodle:** https://moodlemupes.upv.es/course/view.php?id=300 (aquí se encuentra la SA estructurada con los recursos e información necesarios para impartir la clase del BLoque I. Se deja como ejemplo para desarrollar las siguientes secciones de la misma manera).
