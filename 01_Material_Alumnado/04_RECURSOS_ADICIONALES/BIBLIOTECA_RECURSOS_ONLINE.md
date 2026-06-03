@@ -21,6 +21,7 @@
 ### ✅ IMPRESCINDIBLES
 * **Simulador Engranajes:** https://www.meiyaprecision.com/gear-generator/es/
 * **Relación de transmisión:** https://youtu.be/QSxbskQIVu4?si=kRztPjT8Ilw3bbIj
+* **Bluetooth:** https://youtu.be/wAW8rG9tKJI?si=PWQVvUuGbF_UzvCc
 
 ### 💡 APOYO TÉCNICO
 * **Tutoriales Tinkercad** https://youtu.be/DfzaDfIEUtA?si=6VaJbVxe_xPxqoYD
