@@ -26,20 +26,23 @@ Este repositorio se organiza en las siguientes secciones para facilitar su imple
 
 ### 📦 Material para el Profesorado
 * **01_Bloque I**
-  * *HERRAMIENTAS_EVIDENCIAS:* Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
-  * *HTML:* Enlaces a recursos creados de apoyo para el alumnado (Escape Room, Bando de Preguntas).
+  * ***HERRAMIENTAS_EVIDENCIAS:*** Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
+  * ***HTML:*** Enlaces a recursos creados de apoyo para el alumnado (Escape Room, Bando de Preguntas).
 * **02_Bloque II**
-  * *HERRAMIENTAS_EVIDENCIAS:* Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
-  * *Transparencias:* Las presentaciones para las explicaciones de algunas sesiones del bloque.
+  * ***HERRAMIENTAS_EVIDENCIAS:**** Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
+  * ***Transparencias** Las presentaciones para las explicaciones de algunas sesiones del bloque.
  * **03_Bloque III**
-  * *HERRAMIENTAS_EVIDENCIAS:* Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
-  * *Transparencias:* Las presentaciones para las explicaciones de algunas sesiones del bloque.
+  * ***HERRAMIENTAS_EVIDENCIAS:*** Documentos con las herramientas o evidencias necesarias para realizar la evaluación del alumnado.
+  * ***Transparencias:*** Las presentaciones para las explicaciones de algunas sesiones del bloque.
 * **04_EVALUACION:** Documentos explicativos para la evaluación del curso (dividido por bloques) y excel de la Evaluación Competencial con los pesos de cada criterio y su relación con las competencias y las evidencias.
 * **05_ADAPTACIÓN_DUA:** Documentos explicativos para la adaptación DUA del curso (dividido por bloques).
-* *Calendari_escolar_25-26.pdf:* Calendario proporcionado por el centro.
-* *Calendario_Academico_2025_2026.pdf:*
-* *Curriculo_Tecnologia_e_Ingenieria_I_II:* Documento que contiene tanto las Competencias y los Objetivos como los contenidos (Saberes básicos).
-* *TEMPORALIZACIÓN:* Documento que segmenta en sesiones toda la SA detallando brevemente lo que se hará en cada sesión.
+* ***Calendari_escolar_25-26.pdf:*** Calendario proporcionado por el centro.
+* ***Calendario_Academico_2025_2026.pdf:***
+* ***Curriculo_Tecnologia_e_Ingenieria_I_II.pdf:*** Documento que contiene tanto las Competencias y los Objetivos como los contenidos (Saberes básicos).
+* ***TEMPORALIZACIÓN.docx:*** Documento que segmenta en sesiones toda la SA detallando brevemente lo que se hará en cada sesión.
+
+### Infografía ejemplo proyecto.png
+Infografía que expone un ejemplo de modificación urbana.
 
 ---
 **Autores:** Aitana Gil Folqués y Inma Soriano Belda  
